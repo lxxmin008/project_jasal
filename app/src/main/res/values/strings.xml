@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">project_2</string>
+    <string name="home">Home</string>
+    <string name="button_label1">장터</string>
+    <string name="button_label2">커뮤니티</string>
+    <string name="button_label3">내 가게</string>
+    <string name="button_label4">사고 팔기</string>
+    <string name="button_label5">우리 알바</string>
+</resources>

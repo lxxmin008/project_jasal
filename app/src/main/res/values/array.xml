@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="major">
+        <item>default</item>
+        <item>Major1</item>
+        <item>Major2</item>
+        <item>Major3</item>
+    </string-array>
+
+    <string-array name="default_minor">
+        <item>minor default</item>
+        <!-- Add more default items if needed -->
+    </string-array>
+
+    <string-array name="minor_for_major1">
+        <item>Minor1A</item>
+        <item>Minor1B</item>
+        <item>Minor1C</item>
+    </string-array>
+
+    <string-array name="minor_for_major2">
+        <item>Minor2A</item>
+        <item>Minor2B</item>
+        <item>Minor2C</item>
+    </string-array>
+
+    <string-array name="minor_for_major3">
+        <item>Minor3A</item>
+        <item>Minor3B</item>
+        <item>Minor3C</item>
+    </string-array>
+
+    <string-array name="default_franchise_array">
+        <item>franchise_default1</item>
+        <!-- Add more default items if needed -->
+    </string-array>
+
+    <string-array name="franchise_for_major1_minor1A">
+        <item>Franchise1A1</item>
+        <item>Franchise1A2</item>
+    </string-array>
+
+    <string-array name="franchise_for_major1_minor1B">
+        <item>Franchise1A1</item>
+        <item>Franchise1A2</item>
+    </string-array>
+
+    <string-array name="franchise_for_major1_minor1C">
+        <item>Franchise1A1</item>
+        <item>Franchise1A2</item>
+    </string-array>
+
+    <string-array name="franchise_for_major2_minor2A">
+        <item>Franchise2A1</item>
+        <item>Franchise2A2</item>
+    </string-array>
+
+    <string-array name="franchise_for_major2_minor2B">
+        <item>Franchise2B1</item>
+        <item>Franchise2B2</item>
+    </string-array>
+
+    <string-array name="franchise_for_major2_minor2C">
+        <item>Franchise2C1</item>
+        <item>Franchise2C2</item>
+    </string-array>
+
+    <string-array name="franchise_for_major3_minor3A">
+        <item>Franchise3A1</item>
+        <item>Franchise3A2</item>
+    </string-array>
+
+    <string-array name="franchise_for_major3_minor3B">
+        <item>Franchise3B1</item>
+        <item>Franchise3B2</item>
+    </string-array>
+
+    <string-array name="franchise_for_major3_minor3C">
+        <item>Franchise3C1</item>
+        <item>Franchise3C2</item>
+    </string-array>
+
+</resources>

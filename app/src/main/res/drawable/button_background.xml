@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <!-- This is the padding color -->
+        <color android:color="#008000"/>
+    </item>
+    <item android:top="10dp" android:right="10dp" android:bottom="10dp" android:left="10dp">
+        <!-- This is the actual button background color -->
+        <shape>
+            <solid android:color="#008000"/>
+            <corners android:radius="4dp"/>
+            <!-- You can add other attributes like stroke, gradient, etc. -->
+        </shape>
+    </item>
+</layer-list>
